@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arun-mugilan-6b2918283/) or reach out via email at [your_email@example.com](mailto:arunmugilje@gmail.com). I’m always open to collaboration and exciting new projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arun-mugilan-6b2918283/) or reach out via email at [arunmugilje@gmail.com](mailto:arunmugilje@gmail.com). I’m always open to collaboration and exciting new projects!
 
 ---
 

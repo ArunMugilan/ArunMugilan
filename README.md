@@ -1,13 +1,13 @@
 # 🌟 Arun Mugilan Sargunan
 
-👋 Hi there! I’m Arun, a passionate **full-stack web developer** and **project manager** with experience in creating innovative digital solutions. I’m currently enhancing my skills in various technologies while interning at MSC Management & Services.
+👋 Hi there! I’m Arun, a passionate **full-stack web developer** and **mobile app developer** with experience in creating innovative digital solutions. I’m currently enhancing my skills in various technologies while interning at MSC Management & Services.
 
 ---
 
 ## 💼 Experience
 
 ### Internship at MSC Management & Services (March 2024 - Present)
-- **Roles**: Full-Stack Web Development, Database Management, Project Management
+- **Roles**: Full-Stack Web Development, Database Management, App Development
 - **Technologies**: PHP Laravel, AdonisJS, FlutterFlow, NodeJS, VueJS, Axios
 - **Key Project**: YKN - PSSS System
 - **Achievements**: 
@@ -15,13 +15,6 @@
   - Implemented client requirements
   - Managed bug fixes
   - Contributed to successful system launch
-
-### Technical Lead for University Events
-- Led technical teams for events such as Pongal, Chinese New Year celebrations, and cultural festivals
-- Coordinated multimedia and publicity efforts
-
-### Graphic Designer for University Clubs and Events
-- Created posters and videos using Adobe Creative Suite, Filmora, Canva, and DaVinci Resolve
 
 ---
 
@@ -54,10 +47,7 @@
 - Mobile App Development (Flutter, Dart)
 - Version Control (Git)
 - UI/UX Design
-- Graphic Design (Adobe Creative Suite, Canva)
-- Video Editing (Adobe After Effects, Filmora, DaVinci Resolve)
-- Photography & Videography
-
+  
 ### Soft Skills
 - Problem Solving
 - Team Leadership

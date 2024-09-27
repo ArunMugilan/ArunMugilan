@@ -1,15 +1,15 @@
 <h1 align="center">
-  <a href="https://github.com/ArunMugilan">
-    <img src="https://github.com/ArunMugilan/ArunMugilan/blob/master/assets/img/logo.png" alt="Logo" width="140" height="140" />
+  <a href="https://github.com/YourUsername">
+    <img src="https://github.com/YourUsername/YourUsername/blob/master/assets/img/logo.png" alt="Logo" width="140" height="140" />
   </a>
-  Hi there, I'm <span style="font-weight: bold">Arun Mugilan</span>
+  <span style="color: #e6f; text-shadow: 0 0 10px #fff, 0 0 20px #e6f;">Hi there, I'm</span> <span style="font-weight: bold; color: #ffcc00;">Arun Mugilan</span>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ArunMugilan">
-    <img src="https://img.shields.io/github/followers/ArunMugilan?label=Followers&logo=github&style=for-the-badge" />
+  <a href="https://github.com/YourUsername">
+    <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&logo=github&style=for-the-badge" />
   </a>
-  <a href="https://github.com/ArunMugilan">
+  <a href="https://github.com/YourUsername">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge" />
   </a>
 </p>
@@ -19,22 +19,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ArunMugilan/ArunMugilan/blob/master/assets/img/animation.gif" width="100%" />
+  <img src="https://github.com/YourUsername/YourUsername/blob/master/assets/img/animation.gif" width="100%" />
 </div>
 
-<style>
-  h1 {
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e6f, 0 0 40px #e6f, 0 0 70px #e6f, 0 0 80px #e6f, 0 0 100px #e6f;
-    }
-    to {
-      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e6f, 0 0 20px #e6f, 0 0 30px #e6f, 0 0 40px #e6f, 0 0 50px #e6f;
-    }
-  }
-</style>
-
-
+<p align="center">
+  <span style="color: #e6f;">✨ Creating innovative solutions, one line of code at a time! ✨</span>
+</p>

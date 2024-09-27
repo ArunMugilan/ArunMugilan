@@ -1,27 +1,39 @@
-<h1 align="center">
-  <a href="https://github.com/ArunMugilan">
-    <img src="https://github.com/ArunMugilan/ArunMugilan/blob/master/assets/img/logo.png" alt="Logo" width="140" height="140" />
-  </a>
-  <span style="color: #e6f; text-shadow: 0 0 10px #fff, 0 0 20px #e6f;">Hi there, I'm</span> <span style="font-weight: bold; color: #ffcc00;">Arun Mugilan</span>
-</h1>
+# 👋 Hi, I'm Arun Mugilan Sargunan
 
-<p align="center">
-  <a href="https://github.com/ArunMugilan">
-    <img src="https://img.shields.io/github/followers/ArunMugilan?label=Followers&logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ArunMugilan">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge" />
-  </a>
-</p>
+🏅 Computer Science student based in Malaysia with a passion for web design, front-end coding, and database handling.
 
-<p align="center">
-  I'm a software developer with a passion for creating innovative solutions, and I'm always looking for ways to improve my skills and knowledge.
-</p>
+## 🎓 Education
+- Bachelor of Computer Science (Mobile Computing) - Universiti Malaysia Terengganu (2021 - 2024)
+  - Current CGPA: 3.46
 
-<div align="center">
-  <img src="https://github.com/ArunMugilan/ArunMugilan/blob/master/assets/img/animation.gif" width="100%" />
-</div>
+## 💼 Experience
+- Internship - MSC Management & Services (March 2024 - Present)
+  - Full-Stack Web Development, Database Management, Project Management
+  - Technologies: PHP Laravel, AdonisJS, FlutterFlow, NodeJS, VueJS, Axios
 
-<p align="center">
-  <span style="color: #e6f;">✨ Creating innovative solutions, one line of code at a time! ✨</span>
-</p>
+## 🚀 Projects
+- YKN PSSS Web App: Laravel PHP, MySQL
+- Student Healthcare App: Firebase, Flutter, Dart
+- Smart Parking App: Firebase, Flutter, Dart
+- Various Web Systems: HTML, JS, CSS, MySQL
+
+## 🔨 Skills
+- Web Design & Front-End Coding
+- Database Handling
+- Graphic Designing
+- Video Editing
+- Photography & Videography
+
+## 🌟 Personal Skills
+- Problem Solving
+- Team Leadership
+- Adaptability
+- Creativity
+- Time Management
+
+## 📬 Let's Connect!
+- Email: arunmugilJR@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arun-mugilan-6b2918283)
+- [GitHub](https://github.com/ArunMugilan)
+
+Thank you for visiting my profile! 🌟

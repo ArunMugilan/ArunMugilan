@@ -6,7 +6,7 @@
 
 ## 💼 Experience
 
-### Internship at MSC Management & Services (March 2024 - Present)
+### Internship at MSC Management & Services (March 2024 - March 2025)
 - **Roles**: Full-Stack Web Development, Database Management, App Development
 - **Technologies**: PHP Laravel, AdonisJS, FlutterFlow, NodeJS, VueJS, Axios
 - **Key Project**: YKN - PSSS System
